@@ -52,9 +52,5 @@ Reference images:-
 ![photo_2023-11-15_23-38-07](https://github.com/AdityaH007/EndlessRunner-unity/assets/123583340/e2057eae-e343-4aaa-9f6e-34d2df118dda)
 ![photo_2023-11-15_23-38-08](https://github.com/AdityaH007/EndlessRunner-unity/assets/123583340/8ce2c8b1-7059-4544-b310-bf2d817a5b71)
 _______________________________________________________________________________________________________________________________________________________________
-Files:-
-APK- https://ufile.io/e24ts903
-
-Executable- https://ufile.io/ts8lbv2t
 
 
